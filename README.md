@@ -8,5 +8,5 @@ method.
 
 ## Installation
 
--Download the src folder or the whole folder
--Using your Java enviroment, run the main class for the main project
+- Download the src folder or the whole folder
+- Using your Java enviroment, run the main class for the main project
